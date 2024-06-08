@@ -3,11 +3,11 @@
   <ul type="disc">
     
   <li><p>👋 Hi, I’m </p></li>
-   <img alt="Stuti Shah" src="https://readme-typing-svg.herokuapp.com/?lines=Stuti+Shah;CSE+Student&font=Fira%20Code&width=440&height=45&color=68C3D4&vCenter=true&size=21"></a>
+   <img alt="Stuti Shah" src="https://readme-typing-svg.herokuapp.com/?lines=Stuti+Shah;2nd CSE+Student&font=Fira%20Code&width=440&height=45&color=68C3D4&vCenter=true&size=21"></a>
 </h3>
   <li><p>I am a second year computer science student at L.J university.</p> </li>
   <li><p>I am highly interested in the field of data analyst, and Web Development</p></li>
-  <li><p>👀 I’m a coding geek who loves to work with Python, Django, HTML, CSS, JS, Jaba, and SQL.</p></li>
+  <li><p>👀 I’m a coding geek who loves to work with Python,HTML, CSS, JavaScript, Java, and PostgreSQL.</p></li>
   <li><p>🌱 I’m currently in my Fourth semester.</p></li>
   <li><p>📫 How to reach me: <a href="stuti0720shah@gmail.com">stuti0720shah@gmail.com</a></p></li>
   
