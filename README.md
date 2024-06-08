@@ -3,7 +3,7 @@
   <ul type="disc">
     
   <li><p>👋 Hi, I’m </p></li>
-   <img alt="Stuti Shah" src="https://readme-typing-svg.herokuapp.com/?lines=Stuti+Shah;Web+developer&font=Fira%20Code&width=440&height=45&color=68C3D4&vCenter=true&size=21"></a>
+   <img alt="Stuti Shah" src="https://readme-typing-svg.herokuapp.com/?lines=Stuti+Shah;CSE+Student&font=Fira%20Code&width=440&height=45&color=68C3D4&vCenter=true&size=21"></a>
 </h3>
   <li><p>I am a second year computer science student at L.J university.</p> </li>
   <li><p>I am highly interested in the field of data analyst, and Web Development</p></li>
