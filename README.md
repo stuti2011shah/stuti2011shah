@@ -7,7 +7,7 @@
 </h3>
   <li><p>I am a second year computer science student at L.J university.</p> </li>
   <li><p>I am highly interested in the field of data analyst, and Web Development</p></li>
-  <li><p>👀 I’m a coding geek who loves to work with Python,HTML, CSS, JavaScript, Java, and PostgreSQL.</p></li>
+  <li><p>👀 I’m a coding geek who loves to work with  React,Python,HTML, CSS, JavaScript, Java, and PostgreSQL.</p></li>
   <li><p>🌱 I’m currently in my Fourth semester.</p></li>
   <li><p>📫 How to reach me: <a href="stuti0720shah@gmail.com">stuti0720shah@gmail.com</a></p></li>
   <h3 align="left">Connect with me:</h3>
