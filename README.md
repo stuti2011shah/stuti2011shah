@@ -9,7 +9,7 @@
   <li><p>I am highly interested in the field of data analyst, and Web Development</p></li>
   <li><p>👀 I’m a coding geek who loves to work with  React,Python,HTML, CSS, JavaScript, Java, and PostgreSQL.</p></li>
   <li><p>🌱 I’m currently in my Fourth semester.</p></li>
-  <li><p>📫 How to reach me: <a href="stuti0720shah@gmail.com">stuti0720shah@gmail.com</a></p></li>
+  <li><p>📫 How to reach me: <a href="stuti2011shah@gmail.com">stuti2011shah@gmail.com</a></p></li>
   <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/khushi-shah-462343259" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khushi-shah-462343259" height="30" width="40" /></a>
